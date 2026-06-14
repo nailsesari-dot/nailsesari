@@ -29,7 +29,7 @@ export default function MentionsLegalesPage() {
             <strong style={{ color: "#F8EEF6" }}>Nailsesari</strong><br />
             Nom : À compléter<br />
             Adresse : {siteConfig.contact.address}<br />
-            Téléphone : {siteConfig.contact.phone}<br />
+            Téléphone : À compléter<br />
             Email : {siteConfig.contact.email}<br />
             Forme juridique : À compléter (auto-entrepreneur / SASU…)<br />
             N° SIRET : À compléter
