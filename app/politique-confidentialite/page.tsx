@@ -21,7 +21,7 @@ export default function PolitiqueConfidentialitePage() {
         {[
           {
             title: "Responsable du traitement",
-            content: `Nailsesari — ${siteConfig.contact.email} — ${siteConfig.contact.phone}`,
+            content: `Nailsesari — ${siteConfig.contact.email}`,
           },
           {
             title: "Données collectées",
